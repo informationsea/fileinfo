@@ -1,7 +1,7 @@
 fileinfo
 ========
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/informationsea/fileinfo)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/informationsea/fileinfo)
+[![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/informationsea/fileinfo)](https://hub.docker.com/r/informationsea/fileinfo)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/informationsea/fileinfo)](https://hub.docker.com/r/informationsea/fileinfo)
 
 Print file size, modification time and other attributes as JSON
 
